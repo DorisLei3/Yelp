@@ -1,0 +1,99 @@
+﻿Order in Yelp,Restaurant Name,Rating,Number of Reviews,Price Level,Main Cuisine,Free Wi-Fi,Vegetarian,Street Parking,Takes Reservations,Dogs Allowed,Good for Groups
+1,Bottega,4.3,"(1,050 reviews)",$$,Italian,1,1,1,0,1,0
+2,The Snug,4.0,(439 reviews),$$,Cocktail Bars,1,1,1,1,1,1
+3,Elena's Mexican Restaurant,4.1,(118 reviews),N/A,American,0,1,1,0,0,0
+4,Kothai Republic,4.6,(269 reviews),N/A,Korean,1,1,1,1,0,1
+5,Blind Butcher,4.0,(342 reviews),$$,New American,0,1,1,1,0,1
+6,Pearl,4.4,(493 reviews),$$$,Italian,1,1,1,1,0,1
+7,Memento SF,4.7,(47 reviews),N/A,New American,0,0,0,0,0,0
+8,Fog Harbor Fish House,4.3,"(10,231 reviews)",$$,Seafood,1,1,0,1,0,1
+9,N/A,N/A,N/A,N/A,N/A,0,0,0,0,0,0
+10,Nopa,4.2,"(5,513 reviews)",$$$,New American,0,1,1,1,1,1
+11,Dalida,4.5,(214 reviews),$$$,Mediterranean,1,1,1,1,1,1
+12,Otra,4.4,(174 reviews),N/A,Mexican,0,1,1,0,0,0
+13,La Sarrasine,4.7,(83 reviews),Unclaimed,Unclaimed,0,0,1,0,0,1
+14,Santeria,4.4,(322 reviews),$$,Mexican,0,1,1,1,1,1
+15,Movida,4.3,(123 reviews),N/A,Persian/Iranian,1,1,1,1,1,1
+16,Sotto Mare,4.3,"(5,292 reviews)",$$,Seafood,0,1,1,1,0,1
+17,Fermentation Lab,4.5,(62 reviews),N/A,Cocktail Bars,1,0,0,0,0,1
+18,ILCHA,4.3,(286 reviews),N/A,Korean,0,0,1,1,0,1
+19,Fable,4.1,(869 reviews),$$,New American,1,1,1,1,1,1
+20,little shucker,4.4,(153 reviews),N/A,Seafood,0,0,1,1,0,1
+21,Katsuo + Kombu,4.3,(152 reviews),$$,Japanese,0,1,1,0,0,1
+22,The Laundromat,4.6,(274 reviews),N/A,Pizza,0,0,1,0,0,0
+23,Pinsa Rossa,4.7,(100 reviews),N/A,Italian,0,0,0,0,0,0
+24,Bistro Ember,4.7,(77 reviews),N/A,Mediterranean,0,0,0,0,0,0
+25,Starbelly,3.8,"(2,335 reviews)",$$,New American,1,1,1,1,0,1
+26,Caliente Bistro Kitchen,4.8,(252 reviews),$$,Mexican,1,1,1,1,0,1
+27,Beit Rima,4.3,(338 reviews),$$,Arabic,0,1,1,0,1,1
+28,Bansang,4.2,(424 reviews),N/A,Korean,0,1,1,1,0,1
+29,Beretta Divisadero,4.2,(495 reviews),$$,Italian,1,1,1,1,1,1
+30,The Rustic,4.6,(72 reviews),N/A,Italian,1,0,1,0,1,0
+31,Starbelly,3.8,"(2,335 reviews)",$$,New American,1,1,1,1,0,1
+32,Caliente Bistro Kitchen,4.8,(252 reviews),$$,Mexican,1,1,1,1,0,1
+33,Beit Rima,4.3,(338 reviews),$$,Arabic,0,1,1,0,1,1
+34,The Tailor's Son,4.2,(518 reviews),N/A,Italian,1,0,1,0,1,1
+35,N/A,N/A,N/A,N/A,N/A,0,0,0,0,0,0
+36,Bansang,4.2,(424 reviews),N/A,Korean,0,1,1,1,0,1
+37,Finthaisf,4.9,(31 reviews),N/A,Seafood,0,0,1,1,0,0
+38,Bocconcino,4.8,(72 reviews),N/A,Italian,1,0,1,1,0,0
+39,Nepa Indian Cuisine,4.9,(29 reviews),N/A,Indian,0,1,0,0,0,0
+40,Dumpling Story,4.6,(196 reviews),N/A,Asian Fusion,0,1,0,0,0,1
+41,Beretta Divisadero,4.2,(495 reviews),$$,Italian,1,1,1,1,1,1
+42,San Ho Won,4.6,(565 reviews),$$$$,Korean,0,0,1,1,0,1
+43,The Rustic,4.6,(72 reviews),N/A,Italian,1,0,1,0,1,0
+45,Oodle Yunnan Rice Noodle,4.6,(137 reviews),N/A,Chinese,0,0,1,0,1,0
+46,STOA,4.4,(23 reviews),N/A,Cocktail Bars,0,0,1,0,0,0
+47,Bay Of Burma,4.8,(40 reviews),N/A,Burmese,0,1,0,0,0,0
+48,Chome,4.6,(358 reviews),$$,Izakaya,0,1,1,1,0,0
+49,Frances,4.3,"(1,573 reviews)",$$$,New American,0,0,1,1,0,0
+50,Nopalito,3.8,"(2,047 reviews)",$$,Mexican,0,1,1,0,1,1
+51,Beit Rima,4.5,(784 reviews),$$,Arabic,1,1,1,0,0,1
+52,Ben Thai Cafe,4.4,"(1,029 reviews)",$$,Thai,0,1,1,1,0,1
+53,Birdsong,4.4,(423 reviews),$$$$,New American,0,1,1,1,0,1
+54,Dabao Singapore,4.8,(83 reviews),N/A,Singaporean,1,1,1,0,0,0
+55,Taste Of Old Street,4.5,(33 reviews),N/A,Chinese,0,0,0,0,0,0
+56,Mattina,3.9,(83 reviews),Unclaimed,Unclaimed,0,0,1,0,0,0
+57,Lokma,4.6,(799 reviews),$$,Mediterranean,0,1,1,1,1,1
+58,MuuKaTa6395 Thai Charcoal BBQ,4.6,(352 reviews),N/A,Thai,0,1,1,1,1,1
+59,Seven Hills,4.5,"(1,362 reviews)",$$$,Italian,1,1,1,1,0,1
+60,C.Q. Noodles,4.5,(176 reviews),$$,Chinese,0,1,1,1,0,1
+61,Dumpling Kitchen,4.3,(116 reviews),$$,Dim Sum,0,1,1,0,0,1
+62,N/A,N/A,N/A,N/A,N/A,0,0,0,0,0,1
+63,Lily,4.3,(452 reviews),N/A,Vietnamese,0,1,1,1,0,1
+64,CreoLa,4.5,(224 reviews),$$,Seafood,0,1,1,1,0,1
+65,Routier,4.4,(172 reviews),$$$$,French,0,1,1,1,0,0
+66,Roma Antica,4.5,"(1,466 reviews)",$$,Pizza,1,1,1,0,1,1
+67,Dumpling House,4.3,(506 reviews),$$,Dim Sum,1,1,1,0,0,1
+68,DACHA Kitchen & Bar,5.0,(41 reviews),N/A,Modern European,1,0,0,1,1,0
+69,Heritage Restaurant & Bar,4.3,(279 reviews),$$,New American,1,1,1,1,0,1
+71,Lark,4.1,(345 reviews),$$,Mediterranean,1,1,1,1,0,1
+72,Daeho Kalbijjim & Beef Soup,4.5,"(2,007 reviews)",$$$,Korean,0,0,1,0,0,1
+73,Cha Cha Cha,3.9,"(3,469 reviews)",$$,Caribbean,0,1,1,0,0,1
+74,Noodle in a Haystack,4.8,(81 reviews),$$$$,Ramen,0,0,1,1,0,1
+75,Burma Superstar,4.2,"(7,571 reviews)",$$,Burmese,0,1,1,0,0,1
+76,Farmhouse Kitchen Thai Cuisine,4.1,"(3,713 reviews)",$$,Thai,1,1,1,1,1,1
+77,Gola,4.7,(80 reviews),N/A,Mediterranean,0,0,1,0,0,0
+78,Ollei,4.5,(135 reviews),$$,Korean,0,0,0,1,0,1
+79,Manna,4.1,"(1,441 reviews)",$$,Korean,0,1,1,0,0,0
+80,Tanglad,4.5,(280 reviews),$$,Vietnamese,0,1,1,0,0,1
+81,N/A,N/A,N/A,N/A,N/A,0,0,0,0,0,0
+82,Fish In The Box,4.6,(314 reviews),$$,Poke,1,1,1,0,1,0
+83,Mamahuhu,4.0,(102 reviews),N/A,Asian Fusion,0,0,0,0,0,0
+84,Dumpling Home,4.5,"(1,494 reviews)",$$,Dim Sum,1,1,1,0,1,1
+85,Mariposas,4.6,(41 reviews),N/A,Peruvian,0,0,0,1,0,1
+86,Okaeri Japanese Bistro,4.5,(299 reviews),$$,Sushi Bars,0,1,1,1,0,1
+87,Bella Trattoria,4.3,"(1,920 reviews)",$$,Italian,1,1,1,1,0,1
+88,Surisan,4.3,"(3,572 reviews)",$$,Korean,0,1,1,1,1,1
+89,The Korner Store Bites & Vibes,4.8,(56 reviews),$$,Korean,1,0,1,0,0,0
+90,Moku Yakitori-Ya,4.4,(119 reviews),$$,Izakaya,0,0,1,0,0,0
+91,NOVY Restaurant,4.1,(568 reviews),$$,Mediterranean,1,1,1,1,1,1
+92,Rise Over Run,4.1,(128 reviews),N/A,New American,1,0,0,1,0,1
+93,Taniku Izakaya,4.9,(126 reviews),$$,Izakaya,0,1,1,1,0,1
+94,Anomaly SF,4.7,(170 reviews),$$$$,New American,0,1,1,1,0,1
+95,Unco Frank’s,4.5,(93 reviews),$$,Hawaiian,0,0,0,0,0,1
+96,State Bird Provisions,4.2,"(3,249 reviews)",$$$,Tapas/Small Plates,0,1,1,1,1,1
+97,N/A,N/A,N/A,N/A,N/A,0,0,0,0,0,0
+98,Cafe Okawari,4.5,(386 reviews),$$,Japanese,0,1,1,0,1,0
+99,Copra,4.0,(392 reviews),$$$,Indian,1,1,1,1,0,1
+100,Hook Fish,4.3,"(1,143 reviews)",$$,Seafood,0,1,1,0,0,0
